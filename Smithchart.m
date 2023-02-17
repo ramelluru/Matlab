@@ -1,3 +1,4 @@
+% Plotting basic smith chart using real and impedence
 clc
 for c=1:12
     for d=1:7
