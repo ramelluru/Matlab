@@ -1,3 +1,4 @@
+% Permutation matrix
 clc;
 A=[1 1 1;3 2 1;-2 3 -2];
 [L,U,P] = lu(A)
