@@ -1,3 +1,4 @@
+% Smith chart from impedence from Excel Sheet
 clc
 for c=1:10
     a=data1(c);
