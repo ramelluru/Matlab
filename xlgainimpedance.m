@@ -1,3 +1,4 @@
+% Pulling recordings from gain and impedence from the excel sheet
 clc
 for c=2:13
     for d=2:8
